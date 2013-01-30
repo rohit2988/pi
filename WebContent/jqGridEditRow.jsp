@@ -81,6 +81,7 @@ function reload(){
 </script>
 </head>
 <body>
+Grid Starts from Here....
 <table id="grid"></table>
 <div id="page"></div>
 <a href="jqGridAddRow.jsp">Add new Record</a>
