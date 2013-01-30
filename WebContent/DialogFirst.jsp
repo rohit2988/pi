@@ -45,7 +45,7 @@ $(function(){
 	});
 			$("#Cancel").click(function(){
 				$("#Dialog").dialog("close");
-			})
+			});
 });
 </script>
 </head>
