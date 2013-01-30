@@ -65,7 +65,7 @@ Confirm Password:<input type="password" id="TxtCPwd" /><br>
 <input type="button" id="Register" value="Register" />
 </center>
 </div>
-Hey!!! Wats up!!!!!!!!!!!!!!!!!!
+Hey!!! Wats up!!!!!!!!!!!!!!!!!!!!!!
 <input type="button" id="CmdDialog" value="Dialog" />
 </body>
 </html>
